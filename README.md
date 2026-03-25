@@ -6,7 +6,7 @@
   
 </p>
 
-<h1>I'm <a  href="https://yasharth291.github.io/">Udit bhardwaj</a></h1>
+<h1>I'm <a  href="https://www.linkedin.com/in/udit-bhardwaj-4ba61a336/?skipRedirect=true">Udit bhardwaj</a></h1>
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="400px" />
 
