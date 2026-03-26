@@ -53,45 +53,24 @@
 <h2 align="center">I code with</h2>
 <table>
   <tbody>
-    <tr>
-      <td width="50%" align="center">
-        <span>C++</span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png">
-      </td>
-      <td width="50%" align="center">
-        <span>Python</span><br><br><br>
-        <img height="64px" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
-      </td>
-      <td width="50%" align="center">
-        <span>Git</span><br><br><br>
-        <img height="64px" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">
-      </td>
-      <td width="50%" align="center">
-        <span>HTML5</span><br><br><br>
-        <img height="64px" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg">
-      </td>
-      <td width="50%" align="center">
-        <span>CSS</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/css3.svg">
-      </td>
-       <!-- <td width="25%" align="center">
-        <span>FireBase</span><br><br><br>
-        <img height="64px" src="https://img.icons8.com/color/452/firebase.png">
-      </td> -->
-       <!-- <td width="25%" align="center">
-        <span>MongoDb Atlas</span><br><br><br>
-        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png">
-      </td>
-    </tr> -->
-    <!-- <tr> -->
-      <td width="50% align="center">
-        <span>VSCode</span><br><br><br>
-        <img height="64px" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif">
-      </td>
-      <td width="50%" align="center">
-        <span>JavaScript</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg">
-      </td>
+    <div align="center">
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/eclipse.png" alt="eclipse" title="eclipse"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" title="Bootstrap"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" alt="php" title="php"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php_(elephpant).png" alt="php (elephpant)" title="php (elephpant)"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code>
+</div>
     
       
   </tbody>
