@@ -17,7 +17,15 @@
 <h4> ‍ <h4/>
 
 
-
+<hr>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://x.com/Uditbhardwajj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/Uditbhardwajj" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/udit-bhardwaj-4ba61a336?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/udit-bhardwaj-4ba61a336?utm_source=share_via&utm_content=profile&utm_medium=member_android" height="30" width="40" /></a>
+<a href="https://www.instagram.com/udit___bhardwaj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/udit___bhardwaj/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/uditbhardwajj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/uditbhardwajj/" height="30" width="40" /></a>
+</p>
+<hr>
 
  ###  Experiences
 
