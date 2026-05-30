@@ -1,9 +1,26 @@
-### Hi there 👋
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+  ### Hi there 👋
+
 <br>
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100<img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
   <br><br>
+  </div>
+
+  <table>
+    <tr>
+      <td>
+        <!-- LeetCode Score -->
+        <img src="https://leetcard.jacoblin.cool/Uditbhardwajj?theme=chartreuse&font=Abel" alt="LeetCode Score" width="660" height="auto" />
+      </td>
+      <td>
+      <!-- GitHub Graph -->
+         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uditbhardwajj&theme=tokyo-night&hide_border=true&bg_color=000000&color=00d9ff&line=00ff88&point=ffffff&area=true&area_color=1a1a1a" alt="Productive Time" width="750" />
+      </td>
   
+  </table>
+
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 </p>
 
 <h1>I'm <a  href="https://www.linkedin.com/in/udit-bhardwaj-4ba61a336/?skipRedirect=true">Udit bhardwaj</a></h1>
@@ -25,6 +42,7 @@
 <a href="https://leetcode.com/u/uditbhardwajj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/uditbhardwajj/" height="30" width="40" /></a>
 </p>
 <hr>
+
 
  ###  Experiences
 
